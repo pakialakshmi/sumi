@@ -1,24 +1,33 @@
 <div align="center">
 
-<img src="./full-profile.svg" width="100%" alt="Pakialakshmi's neon galaxy GitHub profile design">
+<img src="assets/banner.png" alt="Hi, I'm Pakialakshmi" width="100%"/>
 
 </div>
 
-## 💖 About this profile
+<table>
+<tr>
+<td width="35%" valign="top"><img src="assets/about.svg" alt="About Me"/></td>
+<td width="65%" valign="top">
+<img src="assets/skills.svg" alt="Skills"/>
+<img src="assets/projects.svg" alt="Featured Projects"/>
+</td>
+</tr>
+</table>
 
-This is my neon galaxy-inspired developer profile design.
+## 📈 Contribution Activity
 
-### 💻 Frontend
-HTML · CSS · JavaScript
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/output/github-snake.svg">
+</picture>
+</div>
 
-### 🎨 UI / UX
-Figma · FigJam · Google Stitch · Uizard · Canva · Maze · Relume · Khroma
+<table>
+<tr>
+<td valign="top"><img src="assets/stats.svg" alt="GitHub Stats"/></td>
+<td valign="middle" align="center"><a href="https://github.com/pakialakshmi"><img src="assets/connect.svg" alt="GitHub"/></a></td>
+</tr>
+</table>
 
-### 🤖 AI Tools
-ChatGPT · Lovable · Bolt.new · Cursor · v0 · Adobe Firefly
-
-### 🚀 Projects
-- **HealthyBites** — healthy food delivery website using HTML, CSS and JavaScript.
-- **BookNest** — second-hand bookstore web app using PHP, MySQL, HTML, CSS and JavaScript.
-
-> Note: The large SVG is a visual profile banner/mockup. Its contribution squares and stats are illustrative graphics, not live GitHub data. GitHub README does not run interactive JavaScript or true 3D effects inside SVG.
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>
